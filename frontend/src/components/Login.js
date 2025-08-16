@@ -96,9 +96,8 @@ class Login extends React.Component {
                     disabled={this.props.inProgress}
                     style={{
                       border: 0,
-                      background:
-                        "linear-gradient(90deg, #4683CA -3.21%, #AF93F2 100%)",
-                      borderRadius: "5px",
+                      background:"#FFFFFF"
+                        ,
                     }}
                   >
                     SIGN IN
